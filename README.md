@@ -55,7 +55,7 @@ Alexander Forero : [LinkedIn] | [GitHub] | [Twitter]
 [Twitter]: <https://twitter.com/ForeroAlex2604>
 
 ## AUTHOR DESCRIPTION
- - I'm a Food Process Engineer and a software engineering student at Holberton School.
+ - I'm a software engineering student at Holberton School.
   - I have been studying low-level programming, high-level
  programming, system engineering and devops, and web
  stack programming (Front-end & Back-end) using a
